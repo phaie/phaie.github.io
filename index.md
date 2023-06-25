@@ -4,3 +4,301 @@ GitHub 主页：[lhj](https://github.com/phaie)
 ## 经济
 
 ## 数据
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+  <head>
+    <title>风电设备</title>
+    <meta name="GENERATOR" content="HeidiSQL 12.5.0.6677">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+      th, td {vertical-align: top;}
+      table, td {border: 1px solid silver; padding: 2px;}
+      table {border-collapse: collapse;}
+    </style>
+  </head>
+
+  <body>
+
+    <table caption="风电设备 (44 rows)">
+      <thead>
+        <tr>
+          <th class="col0">title</th>
+          <th class="col1">organ</th>
+          <th class="col2">publishDate</th>
+          <th class="col3">url</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="col0">风光装机数据跟踪：3月装机大幅增长，开工招标持续提升</td>
+          <td class="col1">国联证券</td>
+          <td class="col2">2023-04-24</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202304231585729123_1.pdf?1682335726000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">风电行业动态点评：国内装机数据公布，2023年高增长在望</td>
+          <td class="col1">中银证券</td>
+          <td class="col2">2023-01-19</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202301191582173119_1.pdf?1674159910000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源：2022年装机数据披露，2023年风光储需求再上新台阶</td>
+          <td class="col1">平安证券</td>
+          <td class="col2">2023-01-18</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202301181582115614_1.pdf?1674060678000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电新行业周报（2022年第49期）：寒潮来袭带动欧洲电力价格上行，国内11月风光装机数据较为平淡</td>
+          <td class="col1">安信证券</td>
+          <td class="col2">2022-12-19</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202212191581197111_1.pdf?1671454177000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库·风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-22</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211221580464708_1.xls?1669113117000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库·风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-21</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211211580422925_1.xls?1669054095000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库·风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-16</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211161580299746_1.xls?1668610544000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-07</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211071580013888_1.xls?1667849126000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">锂电行业2023年5月月报：销量数据回暖，出口表现抢眼</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2023-06-05</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202306051590412694_1.pdf?1685979518000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电气设备行业动态点评：温控下游星辰大海，“储能+数据中心”双重共振</td>
+          <td class="col1">东方财富证券</td>
+          <td class="col2">2023-04-03</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202304031585035907_1.pdf?1680550232000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备行业专题研究：储能行业跟踪报告2：2022年我国电化学储能招中标数据分析与回顾</td>
+          <td class="col1">国海证券</td>
+          <td class="col2">2023-03-22</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202303221584466991_1.pdf?1679479926000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源行业周报：2月全球新能源车销量数据亮眼，关注PMI持续回暖、数字经济催化下的工控板块</td>
+          <td class="col1">华福证券</td>
+          <td class="col2">2023-03-06</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202303061584059724_1.pdf?1678105309000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库·风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2023-03-03</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202303031583998260_1.xlsx?1677868624000.xlsx</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-电力设备数据库</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2023-03-03</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202303031583998259_1.xls?1677863621000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源周报：锂电企业出海再试水，22年可再生能源数据亮眼</td>
+          <td class="col1">民生证券</td>
+          <td class="col2">2023-02-20</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202302201583388844_1.pdf?1676906362000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库·风电产业链</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2023-02-16</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202302161583233326_1.xls?1676563452000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-电力设备数据库</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2023-02-16</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202302161583233325_1.xls?1676564944000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-储能数据库</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2023-02-16</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202302161583233323_1.xls?1676565394000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备与新能源行业周观察：中汽协公布1月新能源汽车产销数据，内蒙古第三批风光大基地项目将开建</td>
+          <td class="col1">华西证券</td>
+          <td class="col2">2023-02-13</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202302121583068978_1.pdf?1676281252000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电新行业周报（2023年第3期）：疫情影响12月风光并网数据，2023年装机弹性可期</td>
+          <td class="col1">安信证券</td>
+          <td class="col2">2023-01-30</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202301291582484131_1.pdf?1675075598000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源行业周报：年关国内大储并网和新能源车批销数据亮眼，全年新增风光装机120GW以上</td>
+          <td class="col1">华福证券</td>
+          <td class="col2">2023-01-03</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202301031581644075_1.pdf?1672746545000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">国内用电数据专题分析报告：10月电力：秋收已至，用电量稳步增长</td>
+          <td class="col1">国金证券</td>
+          <td class="col2">2022-12-12</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202212121581013335_1.pdf?1670869201000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-储能数据库</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-22</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211221580456997_1.xls?1669109306000.xls</td>
+        </tr>
+        <tr>
+          <td class="col0">财通电新数据库-储能数据库</td>
+          <td class="col1">财通证券</td>
+          <td class="col2">2022-11-07</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202211071580013898_1.xlsx?1667848207000.xlsx</td>
+        </tr>
+        <tr>
+          <td class="col0">电池回收再生周报：锂价维持钴镍上升，折扣系数上行，工信部大数据产业试点包含退役电池回收共享平台建设</td>
+          <td class="col1">东吴证券</td>
+          <td class="col2">2022-08-18</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202208181577327328_1.pdf?1660820640000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">新能源周报（第2期）：电车数据超预期，布局海风、新技术</td>
+          <td class="col1">太平洋</td>
+          <td class="col2">2022-08-15</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202208151577212179_1.pdf?1660562473000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源周报：动力电池大会精彩纷呈，风光装机数据亮眼</td>
+          <td class="col1">民生证券</td>
+          <td class="col2">2022-07-25</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202207251576512780_1.pdf?1660819439000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备与新能源·新能源发电2022年7月第三周：锂电、风电、光伏高频价格数据周度解读</td>
+          <td class="col1">国信证券</td>
+          <td class="col2">2022-07-19</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202207191576329399_1.pdf?1658222253000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备及新能源周报：理想L9正式发布，风光需求数据亮眼</td>
+          <td class="col1">民生证券</td>
+          <td class="col2">2022-06-27</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202206271575015485_1.pdf?1656320601000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备：新能源车行业数据：2022年5月新能源车销量44.7万辆，环比增长49.6%，改善超预期</td>
+          <td class="col1">华金证券</td>
+          <td class="col2">2022-06-15</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202206151572294313_1.pdf?1655302181000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备：新能源车行业数据：2022年4月新能源车销量29.9万辆，环比下降38.3%，期待5月逐渐修复</td>
+          <td class="col1">华金证券</td>
+          <td class="col2">2022-05-20</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202205201566712076_1.pdf?1653045872000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备与新能源行业周报：4月动力电池装机数据出炉，光伏组件出口同比大增</td>
+          <td class="col1">信达证券</td>
+          <td class="col2">2022-05-15</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202205151565732115_1.pdf?1652633108000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备与新能源行业周报：中共中央政治局会议提出做好能源资源保供稳价，光伏一季度数据维持高景气</td>
+          <td class="col1">东亚前海证券</td>
+          <td class="col2">2022-05-06</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202205051563757023_1.pdf?1651836801000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">绿色能源与制造产业链核心数据跟踪</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2022-04-29</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202204291562303231_1.pdf?1651247260000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">绿色能源与制造产业链核心数据跟踪</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2022-04-28</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202204281562130608_1.pdf?1651160098000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">绿色能源与制造产业链核心数据跟踪</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2022-04-18</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202204181560011275_1.pdf?1651136237000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">绿色能源与制造产业链核心数据跟踪</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2022-04-15</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202204151559391590_1.pdf?1651136237000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备第11周周报：住建部提出到2025年，新增建筑光伏50GW；多家锂电、光伏上市公司2022年1-2月经营数据高增</td>
+          <td class="col1">华金证券</td>
+          <td class="col2">2022-03-14</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202203141552539181_1.pdf?1647268191000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">绿色能源与制造产业链核心数据跟踪</td>
+          <td class="col1">川财证券</td>
+          <td class="col2">2022-03-09</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202203091551551342_1.pdf?1646844624000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">动力电池数据跟踪：磷酸铁锂产量增幅较大，锂价格大幅增长</td>
+          <td class="col1">山西证券</td>
+          <td class="col2">2022-03-02</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202203021550124966_1.pdf?1646233441000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备：新能源车行业数据：2022年1月新能源车销量43.1万辆，全年有望超预期</td>
+          <td class="col1">华金证券</td>
+          <td class="col2">2022-02-21</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202202211548292942_1.pdf?1645441852000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备与新能源行业周报：全球新能源车销量数据出炉，产业链维持高景气</td>
+          <td class="col1">信达证券</td>
+          <td class="col2">2022-02-14</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202202141546915475_1.pdf?1644833919000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电气设备行业周报：1月数据超预期，看好短期底部向上机会</td>
+          <td class="col1">开源证券</td>
+          <td class="col2">2022-02-07</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202202071545360093_1.pdf?1644226197000.pdf</td>
+        </tr>
+        <tr>
+          <td class="col0">电力设备新能源：用数据说话，22年继续超配新能车</td>
+          <td class="col1">民生证券</td>
+          <td class="col2">2022-01-17</td>
+          <td class="col3">https://pdf.dfcfw.com/pdf/H3_AP202201171540975368_1.pdf?1655996870000.pdf</td>
+        </tr>
+      </tbody>
+    </table>
+
+      _generated 2023-06-25 16:36:57      by [HeidiSQL 12.5.0.6677](https://www.heidisql.com/)_
+
+  </body>
+</html>
