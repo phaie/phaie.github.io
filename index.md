@@ -5,8 +5,10 @@ GitHub 主页：[lhj](https://github.com/phaie)
 
 ## 数据
 ## 风电设备
+
    th, td {vertical-align: top;} table, td {border: 1px solid silver; padding: 2px;} table {border-collapse: collapse;}
-| 标题 | 机构 | 发布日期 | 链接 |
+
+| title | organ | publishDate | url |
 | --- | --- | --- | --- |
 | 风光装机数据跟踪：3月装机大幅增长，开工招标持续提升 | 国联证券 | 2023-04-24 | https://pdf.dfcfw.com/pdf/H3_AP202304231585729123_1.pdf?1682335726000.pdf |
 | 风电行业动态点评：国内装机数据公布，2023年高增长在望 | 中银证券 | 2023-01-19 | https://pdf.dfcfw.com/pdf/H3_AP202301191582173119_1.pdf?1674159910000.pdf |
