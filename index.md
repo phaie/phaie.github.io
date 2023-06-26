@@ -1,12 +1,13 @@
+# 格纳库
+
 ## 宏观
 GitHub 主页：[lhj](https://github.com/phaie)
 
 ## 经济
 
 ## 数据
-## 风电设备
 
-   th, td {vertical-align: top;} table, td {border: 1px solid silver; padding: 2px;} table {border-collapse: collapse;}
+### 风电设备
 
 | title | organ | publishDate | url |
 | --- | --- | --- | --- |
